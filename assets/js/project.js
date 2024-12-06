@@ -15117,8 +15117,8 @@ visible:'1'
 si2711:{
 name:'Paragraph_10',
 type:1268,
-from:3661,
-to:3750,
+from:5191,
+to:5280,
 rp:0,
 rpa:0,
 mdi:'si2711c',
@@ -15141,7 +15141,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"padding":{"left":10,"right":10,"top":56,"bottom":56},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
+widgetProps:'{"padding":{"left":10,"right":10,"top":47,"bottom":47},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
 retainState:false,
 immo:false,
 apsn:'Slide2802',
@@ -15158,7 +15158,7 @@ t:1268
 ]
 ,
 containerType:'paragraph',
-widgetProps:'{"padding":{"left":10,"right":10,"top":56,"bottom":56},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
+widgetProps:'{"padding":{"left":10,"right":10,"top":47,"bottom":47},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
 option:'DEFAULT_PARAGRAPH_OPTION',
 padding:{
 left:0,
@@ -17207,8 +17207,8 @@ vb:[-2,-2,-1,-1]
 Slide2802:{
 lb:'Blank 10',
 id:2802,
-from:3661,
-to:3750,
+from:5191,
+to:5280,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -21593,8 +21593,8 @@ visible:'1'
 si3084:{
 name:'Paragraph_12',
 type:1268,
-from:3931,
-to:4020,
+from:5281,
+to:5370,
 rp:0,
 rpa:0,
 mdi:'si3084c',
@@ -21617,7 +21617,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"padding":{"left":10,"right":10,"top":133,"bottom":133},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
+widgetProps:'{"padding":{"left":10,"right":10,"top":125,"bottom":125},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
 retainState:false,
 immo:false,
 apsn:'Slide3175',
@@ -21634,7 +21634,7 @@ t:1268
 ]
 ,
 containerType:'paragraph',
-widgetProps:'{"padding":{"left":10,"right":10,"top":133,"bottom":133},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
+widgetProps:'{"padding":{"left":10,"right":10,"top":125,"bottom":125},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
 option:'DEFAULT_PARAGRAPH_OPTION',
 padding:{
 left:0,
@@ -23683,8 +23683,8 @@ vb:[-2,-2,-1,-1]
 Slide3175:{
 lb:'Blank 12',
 id:3175,
-from:3931,
-to:4020,
+from:5281,
+to:5370,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -41023,8 +41023,8 @@ visible:'1'
 si4943:{
 name:'Paragraph_22',
 type:1268,
-from:1711,
-to:1800,
+from:5371,
+to:5460,
 rp:0,
 rpa:0,
 mdi:'si4943c',
@@ -41047,7 +41047,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"padding":{"left":10,"right":10,"top":92,"bottom":92},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
+widgetProps:'{"padding":{"left":10,"right":10,"top":58,"bottom":58},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
 retainState:false,
 immo:false,
 apsn:'Slide5034',
@@ -41064,7 +41064,7 @@ t:1268
 ]
 ,
 containerType:'paragraph',
-widgetProps:'{"padding":{"left":10,"right":10,"top":92,"bottom":92},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
+widgetProps:'{"padding":{"left":10,"right":10,"top":58,"bottom":58},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
 option:'DEFAULT_PARAGRAPH_OPTION',
 padding:{
 left:0,
@@ -43113,8 +43113,8 @@ vb:[-2,-2,-1,-1]
 Slide5034:{
 lb:'Blank 22',
 id:5034,
-from:1711,
-to:1800,
+from:5371,
+to:5460,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -60448,8 +60448,8 @@ visible:'1'
 si6059:{
 name:'Paragraph_28',
 type:1268,
-from:4921,
-to:5010,
+from:5461,
+to:5550,
 rp:0,
 rpa:0,
 mdi:'si6059c',
@@ -60472,7 +60472,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"padding":{"left":10,"right":10,"top":119,"bottom":119},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
+widgetProps:'{"padding":{"left":10,"right":10,"top":88,"bottom":88},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
 retainState:false,
 immo:false,
 apsn:'Slide6150',
@@ -60489,7 +60489,7 @@ t:1268
 ]
 ,
 containerType:'paragraph',
-widgetProps:'{"padding":{"left":10,"right":10,"top":119,"bottom":119},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
+widgetProps:'{"padding":{"left":10,"right":10,"top":88,"bottom":88},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
 option:'DEFAULT_PARAGRAPH_OPTION',
 padding:{
 left:0,
@@ -62538,8 +62538,8 @@ vb:[-2,-2,-1,-1]
 Slide6150:{
 lb:'Blank 28',
 id:6150,
-from:4921,
-to:5010,
+from:5461,
+to:5550,
 iols:0,
 i360qs:false,
 sdu:3,
